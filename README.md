@@ -1,2 +1,2 @@
 # ipfs
-storing claims evidence on ipfs for risk contracts
+storing claims evidence on [ipfs](https://ipfs.io/) for risk contracts
